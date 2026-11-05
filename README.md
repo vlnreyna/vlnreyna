@@ -1,6 +1,8 @@
-<h1 align="center">Hola 👋 soy Valentino ✨</h1>
+<h1 align="center">Hola 👋 soy Valentino Reyna ✨</h1>
 
-<h3 align="center">Desarrollador Backend Junior · Madrid, España</h3>
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="mailto:reyna.valentino@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
