@@ -82,13 +82,3 @@ Desarrollo backend con Java · Framework Spring · Inteligencia Artificial y Big
 </div>
 -->
 <br>
-
-<h2>GitHub :octocat:</h2>
-<p align="center">
-  <img align="center" alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=vlnreyna&theme=dark&hide_border=false" />
-  <img align="center" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlnreyna&theme=dark&hide_border=false&langs_count=8&layout=compact" />
-</p>
-
-<p align="center">
-  <img alt="Trofeos de GitHub" src="https://github-profile-trophy.vercel.app/?username=vlnreyna&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
-</p>
