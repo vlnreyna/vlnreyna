@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="mailto:reyna.valentino@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <!-- Sustituye TU_USUARIO por tu usuario de LinkedIn y descomenta la línea -->
-  <!-- <a href="https://linkedin.com/in/TU_USUARIO" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <a href="https://linkedin.com/in/santiago-valentino-reyna-yepez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </p>
 <br>
 
@@ -69,25 +68,25 @@
 Desarrollo backend con Java · Framework Spring · Inteligencia Artificial y Big Data · Desarrollo de aplicaciones móviles
 <br><br>
 
+<!--
 <div id="proyectos">
 <h2>Algunos proyectos 👨🏻‍💻</h2>
 
-<!-- Sustituye cada fila con tus proyectos reales: nombre, descripción corta y enlace -->
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [Nombre del proyecto 1](https://github.com/TU_USUARIO/REPOSITORIO) | Descripción breve de qué hace | Java, Spring Boot, MySQL |
 | [Nombre del proyecto 2](https://github.com/TU_USUARIO/REPOSITORIO) | Descripción breve de qué hace | Kotlin, Android |
 
 </div>
+-->
 <br>
 
 <h2>GitHub :octocat:</h2>
-<!--- Sustituye TU_USUARIO por tu usuario de GitHub en las tres URLs -->
 <p align="center">
-  <img align="center" alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=dark&hide_border=false" />
-  <img align="center" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&langs_count=8&layout=compact" />
+  <img align="center" alt="Racha de contribuciones" src="https://streak-stats.demolab.com/?user=vlnreyna&theme=dark&hide_border=false" />
+  <img align="center" alt="Lenguajes más usados" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlnreyna&theme=dark&hide_border=false&langs_count=8&layout=compact" />
 </p>
 
 <p align="center">
-  <img alt="Trofeos de GitHub" src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+  <img alt="Trofeos de GitHub" src="https://github-profile-trophy.vercel.app/?username=vlnreyna&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </p>
