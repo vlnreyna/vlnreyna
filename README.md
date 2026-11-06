@@ -22,8 +22,6 @@
 
 🔐 Prácticas profesionales de ciberseguridad en Atalanta (Linux, SSH, UFW, VirtualBox)
 
-🎯 Busco mi primer puesto como <b>desarrollador Java backend</b>
-
 📫 Contacto: <b>reyna.valentino@outlook.com</b>
 </p>
 <!--Intro end-->
@@ -37,27 +35,6 @@
   </a>
 </p>
 <br>
-
-<h2>Experiencia 💼</h2>
-
-<b>Prácticas profesionales de ciberseguridad · Atalanta</b> <i>(Mayo - Junio 2025)</i>
-
-- Creación y configuración de máquinas virtuales (VirtualBox) para entornos de prueba.
-- Aplicación de medidas de seguridad (SSH, UFW) y gestión de usuarios en Linux (Ubuntu).
-- Control y documentación de acceso al equipo en Windows.
-<br>
-
-<h2>Educación 🎓</h2>
-
-<b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</b> · Planeta FP - UNIE <i>(2026 - 2027)</i>
-
-- Desarrollo backend con Java y Spring Boot.
-- Desarrollo de aplicaciones Android con Kotlin.
-- Uso de Git y GitHub para control de versiones.
-- Gestión de bases de datos MySQL.
-
-<b>Grado en Ingeniería del Software (estudios no finalizados)</b> · Universidad Politécnica de Madrid <i>(2025)</i>
-<br><br>
 
 <h2>Idiomas 🌍</h2>
 
