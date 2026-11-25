@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:reyna.valentino@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="mailto:reynay.valentino@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/santiago-valentino-reyna-yepez-59114a438" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 <br>
@@ -27,7 +27,7 @@
 
 🔎 Busco mi primer puesto como <b>desarrollador Java backend</b>
 
-📫 Contacto: <b>reyna.valentino@outlook.com</b>
+📫 Contacto: <b>reynay.valentino@gmail.com</b>
 </p>
 <br>
 
