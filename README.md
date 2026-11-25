@@ -34,7 +34,7 @@
 <h2>Tecnologías 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,jpa,mysql,kotlin,nodejs,express,mongodb,py,js,ts,git,github,postman,androidstudio,linux,ubuntu,windows,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,kotlin,nodejs,express,mongodb,py,js,ts,git,github,postman,androidstudio,linux,ubuntu,windows,vscode&perline=8" />
   </a>
 </p>
 <br>
