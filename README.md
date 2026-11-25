@@ -1,37 +1,40 @@
-<h1 align="center">Hola 👋 soy Valentino Reyna ✨</h1>
+<h1 align="center">Hola 👋 soy Valentino Reyna</h1>
 
 <p align="center">
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:reyna.valentino@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/santiago-valentino-reyna-yepez-59114a438" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:reyna.valentino@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/santiago-valentino-reyna-yepez-59114a438" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 <br>
 
 <h2>Sobre mí 😃</h2>
-<!--Intro start-->
 
 <p align="left">
-🎓 <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en Planeta FP - UNIE (2026 - 2027)
+🎓 Estudiante del último año del <b>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)</b> en Planeta FP - UNIE (2026 - 2027). Titulación prevista: junio de 2027
 
-💻 Desarrollador backend junior enfocado en <b>Java, Spring Boot y Kotlin</b>
+💻 Desarrollador backend junior en formación, especializado en el ecosistema <b>Java</b>: <b>Spring Boot</b>, <b>JPA</b> y APIs REST sobre bases de datos relacionales (<b>MySQL</b>)
 
-🗄️ He participado en proyectos académicos con bases de datos <b>MySQL</b> y control de versiones con <b>Git</b>
+🟢 También creo APIs REST con <b>Node.js y Express</b>, con <b>MongoDB (Mongoose)</b> como base de datos no relacional
+
+📱 Desarrollo de aplicaciones Android con <b>Kotlin</b>
+
+🔧 Control de versiones con <b>Git y GitHub</b> y pruebas de endpoints con <b>Postman</b>
 
 🔐 Prácticas profesionales de ciberseguridad en Atalanta (Linux, SSH, UFW, VirtualBox)
 
+🔎 Busco mi primer puesto como <b>desarrollador Java backend</b>
+
 📫 Contacto: <b>reyna.valentino@outlook.com</b>
 </p>
-<!--Intro end-->
 <br>
 
-<h2>Tecnologías conocidas 👨🏻‍💻</h2>
-<!--tech stack icons-->
+<h2>Tecnologías 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,py,js,ts,html,css,mysql,androidstudio,git,github,linux,ubuntu,windows,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,kotlin,nodejs,express,mongodb,py,js,ts,git,github,postman,androidstudio,linux,ubuntu,windows,vscode&perline=8" />
   </a>
 </p>
 <br>
@@ -44,18 +47,6 @@
 
 <h2>Intereses 🎯</h2>
 
-Desarrollo backend con Java · Framework Spring · Inteligencia Artificial y Big Data · Desarrollo de aplicaciones móviles
+Desarrollo backend con Java · Spring Boot · APIs REST · Desarrollo de aplicaciones móviles
 <br><br>
-
-<!--
-<div id="proyectos">
-<h2>Algunos proyectos 👨🏻‍💻</h2>
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [Nombre del proyecto 1](https://github.com/TU_USUARIO/REPOSITORIO) | Descripción breve de qué hace | Java, Spring Boot, MySQL |
-| [Nombre del proyecto 2](https://github.com/TU_USUARIO/REPOSITORIO) | Descripción breve de qué hace | Kotlin, Android |
-
-</div>
--->
 <br>
