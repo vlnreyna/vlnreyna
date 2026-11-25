@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 soy Valentino Reyna</h1>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="assets/bannerActualizado.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
